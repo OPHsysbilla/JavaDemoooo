@@ -17,6 +17,7 @@ public class StringMatcherTest {
 
     @Test
     public void testIsTrue() {
+        System.out.print(7%-4);
         assertTrue(m.isTrue("true"));
         assertFalse(m.isTrue("true2"));
         assertFalse(m.isTrue("True"));

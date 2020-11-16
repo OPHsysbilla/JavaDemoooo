@@ -13,8 +13,7 @@ public class RegexTestStrings {
 //        notRecordGroup(false);
 //        nameOneGroup();
 //        matchYear();
-//        alphaAfterDigital();
-        System.out.println(3%1);
+        alphaAfterDigital();
     }
 
     private static void testReplacement() {
